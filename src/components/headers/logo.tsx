@@ -3,7 +3,7 @@ export const Logo = () => (
     <img 
       src="/logo.svg" 
       alt="Logo" 
-      className="w-full h-full object-contain dark:invert"
+      className="w-full h-full object-contain"
     />
   </div>
 );
